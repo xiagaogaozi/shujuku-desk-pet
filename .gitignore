@@ -1,0 +1,21 @@
+# Track only reusable skill sources. Keep all character runs and personal data outside this repository.
+/*
+!/.gitignore
+!/README.md
+!/SKILL.md
+!/agents/
+!/assets/
+!/references/
+!/scripts/
+/agents/*
+!/agents/openai.yaml
+/assets/*
+!/assets/preview.html
+!/assets/skin-script.js
+/references/*
+!/references/shujuku-contract.md
+!/references/image-workflow.md
+!/references/api-image-workflow.md
+!/references/script-ui.md
+/scripts/*
+!/scripts/pet_skin.py

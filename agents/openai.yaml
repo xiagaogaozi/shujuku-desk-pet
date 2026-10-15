@@ -1,0 +1,4 @@
+interface:
+  display_name: "奶数据库桌宠工坊"
+  short_description: "生成透明桌宠姿态，打包支持实时尺寸预览的酒馆助手换肤脚本"
+  default_prompt: "使用 $shujuku-desk-pet，根据我的角色参考制作透明桌宠素材，并打包带酒馆原生尺寸弹窗的换肤脚本。"
